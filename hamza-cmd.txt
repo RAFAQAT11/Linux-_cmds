@@ -1,0 +1,4 @@
+pwd
+ls
+touch 
+etc etc
