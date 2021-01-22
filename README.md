@@ -1,2 +1,2 @@
-# Linux-_cmds
+# Linux-cmds
 Only accept Linux commands
